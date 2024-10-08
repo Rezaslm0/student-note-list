@@ -1,7 +1,7 @@
 
 # Build a Sample Site From: hamtapay.net
 **Date**: 1403,07,17 - 2024,10,02<br>
-**Documentation**: [📄](https://rezaslm0.github.io/student-note-list/index.html)<br>
+**Documentation**: [📄](https://rezaslm0.github.io/student-note-list/docs/jsdoc/index.html)<br>
 **Live**: [🖥️](https://rezaslm0.github.io/student-note-list/src/index.html)<br>
 **Description**: <br>
 - This is an exercise project related to LocalStorage in JavaScript.
