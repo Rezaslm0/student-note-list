@@ -1,0 +1,12 @@
+{
+    "tutorial": {
+        "title": "Main Tutorial"
+    },
+    "render": {
+        "title": "Render Tutorial"
+    },
+    "lsManager": {
+        "title": "Local Storage Manager Tutorial"
+    }
+
+}
